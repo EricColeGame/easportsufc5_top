@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "EA SPORTS UFC 5 Wiki",
+    "shortName": "EA SPORTS UFC 5",
+    "tagline": "Fighter Guides, Combos & Career Mode",
+    "description": "Explore EA SPORTS UFC 5 fighter ratings, controls, combos, career mode tips, weight classes, and gameplay guides. Master striking, grappling, and submissions.",
+    "legalNotice": "Independent, non-official fan wiki. EA SPORTS UFC 5 and related trademarks belong to their respective owners."
   },
   "nav": {
     "races": "Races",
@@ -30,18 +30,18 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Realistic MMA Fighting Simulation",
+      "title": "EA SPORTS UFC 5 Wiki",
+      "description": "Explore EA SPORTS UFC 5, the next-generation MMA fighting game powered by Frostbite. Discover fighter ratings, striking combos, grappling techniques, submissions, career mode strategies, controls, and gameplay guides to master the Octagon.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "64,000+ Facial Damage Combinations",
+        "14 Created Fighter Types",
+        "4 Online Career Divisions",
+        "Released Oct 27, 2023"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "primaryCta": "Fighter Guides",
+      "secondaryCta": "Fighter Tier List",
+      "tertiaryCta": "Play on PS5 & Xbox Series X|S",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Master the Octagon?",
+      "description": "Study fighter ratings, striking combinations, grappling transitions, submissions, and career strategies with our independent, regularly updated fan guides.",
+      "primary": "Start the Beginner Guide",
+      "secondary": "Play on PS5 & Xbox Series X|S"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "EA SPORTS UFC 5 Wiki",
+    "about": "EA SPORTS UFC 5 Wiki is an independent fan-built guide hub covering fighter ratings, striking and grappling systems, career mode, controls, and essential MMA gameplay knowledge.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "2026 EA SPORTS UFC 5 Wiki. Independent fan site; not affiliated with EA or the UFC.",
+    "description": "Next-generation MMA fighting powered by Frostbite, with realistic damage, career mode, and online competition.",
+    "playGame": "Play EA SPORTS UFC 5",
+    "officialDiscord": "UFC Community on Reddit",
+    "officialYoutube": "EA SPORTS UFC on YouTube",
+    "vvBuilder": "EA Forums",
+    "beginnerGuide": "Fighter Guides",
+    "raceGuides": "Fighter Ratings",
+    "bossGuides": "Combo Guides",
+    "buildGuide": "Fighter Tier List",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

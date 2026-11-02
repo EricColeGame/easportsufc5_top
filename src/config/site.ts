@@ -11,6 +11,8 @@ export interface SiteConfig {
   social?: {
     discord?: string;
     youtube?: string;
+    reddit?: string;
+    forums?: string;
     twitter?: string;
     tiktok?: string;
   };
@@ -23,12 +25,14 @@ export const siteConfig: SiteConfig = {
   shortName: "EA SPORTS UFC 5",
   logoText: "UFC",
   tagline: "Fighter Guides, Combos & Career Mode",
-  description: "Your ultimate guide to EA SPORTS UFC 5! Explore fighter ratings, striking combos, grappling techniques, submissions, career mode strategies, controls, and gameplay guides.",
+  description: "Explore EA SPORTS UFC 5 fighter ratings, controls, combos, career mode tips, weight classes, and gameplay guides. Master striking, grappling, and submissions.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://easportsufc5.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://easportsufc5.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@easportsufc5.top",
   gameUrl: "https://www.ea.com/games/ufc/ufc-5",
   heroVideoId: "ZBDDNym74Vg", // EA SPORTS UFC 5 official gameplay deep dive
   social: {
+    reddit: "https://www.reddit.com/r/EASportsUFC/",
+    forums: "https://forums.ea.com/",
     youtube: "https://www.youtube.com/@EASPORTSUFC",
   },
   locales: ["en", "es", "pt", "de", "fr"],

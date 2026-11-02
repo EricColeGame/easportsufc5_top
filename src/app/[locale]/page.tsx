@@ -7,18 +7,19 @@ import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://easportsufc5.top";
 
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const messages = (await getMessages({ locale })) as Messages;
+  const title = `${siteConfig.name} - Fighters, Combos & Guides`;
   return {
-    title: messages.home.meta.title,
-    description: messages.home.meta.description,
+    title,
+    description: siteConfig.description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title, description: siteConfig.description, url: `${siteUrl}/${locale}`, images: [{ url: `${siteUrl}/images/hero.webp`, width: 2560, height: 1440, alt: "EA SPORTS UFC 5 key art" }] },
+    twitter: { card: "summary_large_image", title, description: siteConfig.description, images: [{ url: `${siteUrl}/images/hero.webp`, alt: "EA SPORTS UFC 5 key art" }] },
   };
 }
 
@@ -27,7 +28,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, alternateName: siteConfig.shortName, url: `${siteUrl}/${locale}`, description: siteConfig.description, inLanguage: locale };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];
