@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "EA SPORTS UFC 5 Wiki — Fighters, Controls & Guides",
+      "description": "Master EA SPORTS UFC 5 with fighter rankings, PS5 and Xbox controls, striking and grappling guides, career mode tips, and online ranked strategies."
     },
     "hero": {
       "eyebrow": "Realistic MMA Fighting Simulation",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your EA SPORTS UFC 5 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core controls, Punch Card progression, and fighter creation steps that make your first matches manageable."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Essential Controls",
+          "description": "Master striking, blocking, takedowns, clinch transitions, and ground controls on PS5 and Xbox Series X|S."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Fighters",
+          "description": "Compare the official 5-star roster and choose fighters that fit your preferred striking or grappling style."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Career Mode",
+          "description": "Create a fighter, select a fighting style, earn Evolution Points, and build a path toward the UFC title."
         }
       ]
     },
@@ -62,265 +62,325 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Best Fighters",
+        "Controls Guide",
+        "Beginner Guide",
+        "Submission System"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn Punch Card progression, UFC Coins, and fighter creation before your first matches.",
+          "href": "/guide/ea-sports-ufc-5-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Essential",
+          "title": "Controls Guide",
+          "description": "Full PS5 and Xbox inputs for striking, clinch grappling, submissions, and ground defense.",
+          "href": "/controls/ea-sports-ufc-5-controls"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Tier List",
+          "title": "Best Fighters",
+          "description": "Compare the official 5-star roster and the strongest picks for every fighting style.",
+          "href": "/fighters/ea-sports-ufc-5-best-fighters"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Progression",
+          "title": "Career Mode Guide",
+          "description": "Create a fighter, choose a style, earn Evolution Points, and chase the UFC title.",
+          "href": "/guide/ea-sports-ufc-5-career-mode-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "Submission System",
+          "description": "Master Submission Finishes, stamina struggles, fakes, and defensive denials.",
+          "href": "/mechanics/ea-sports-ufc-5-submission-system"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Roster",
+          "title": "Alter Egos",
+          "description": "Explore throwback fighter series, new releases, and Store availability.",
+          "href": "/fighters/ea-sports-ufc-5-alter-egos"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is EA SPORTS UFC 5?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "EA SPORTS UFC 5 is a mixed martial arts fighting game developed by EA Vancouver and published by Electronic Arts. Built on the Frostbite engine, it brings real-time damage, seamless submissions, and expanded striking to PlayStation 5 and Xbox Series X|S.",
+        "The game spans Career Mode, Online Career, Fight Week, and ranked competition, with a roster of past and present UFC fighters across 11 weight divisions. Create a fighter, choose from five fighting styles, develop stand-up and submission skills, and chase championship glory in the Octagon."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "EA Vancouver"
+        },
+        {
+          "label": "Publisher",
+          "value": "Electronic Arts"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PS5 & Xbox Series X|S"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "MMA Fighting"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Engine",
+          "value": "Frostbite"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release",
+          "value": "Oct 27, 2023"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Fighter Styles",
+          "value": "5"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Damage Combos",
+          "value": "64,000+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore EA SPORTS UFC 5 Wiki",
+      "description": "Study every core system in EA SPORTS UFC 5, from the complete fighter roster and control maps to career progression, ranked play, Fight Week rewards, and patch updates.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "EA SPORTS UFC 5 Fighter Roster",
+          "description": "Browse every UFC 5 fighter by weight class, with ratings, attributes, fighting styles, legendary athletes, and Alter Ego versions.",
+          "href": "/fighters/ea-sports-ufc-5-full-roster",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Roster",
+              "detail": "All 11 men's and women's weight divisions in one complete roster."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "5-Star",
+              "detail": "Khabib Nurmagomedov, Jon Jones, Amanda Nunes, and other top-rated fighters."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Alter Ego",
+              "detail": "Throwback versions from Prime Series, Champions Series, Pride Series, and more."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "EA SPORTS UFC 5 Controls Guide",
+          "description": "Master PlayStation and Xbox inputs for striking, blocking, movement, takedowns, clinch grappling, submissions, and ground defense.",
+          "href": "/controls/ea-sports-ufc-5-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Strike",
+              "detail": "Xbox X/Y or PS5 Square/Triangle throw left and right punches."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Block",
+              "detail": "Hold RT/R2 for high block; add LT/L2 for low block and timed leg catch."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Takedown",
+              "detail": "Tap LT + X + A on Xbox or L2 + Square + X on PS5 for a single-leg takedown."
+            },
+            {
+              "label": "Submit",
+              "detail": "From the clinch, use LT + RB + X/Y on Xbox or L2 + R1 + Square/Triangle on PS5."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "EA SPORTS UFC 5 Beginner Guide",
+          "description": "Learn the fundamentals of striking, grappling, stamina management, defense, and effective combinations before your first fights.",
+          "href": "/guide/ea-sports-ufc-5-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Start in the Learn tab and use the Training Manual to review essential movement and attack inputs."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Practice basic strikes and combinations in Practice Mode before entering Career Mode."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Earn XP in online and offline matches, then complete challenge-board objectives for larger bursts."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Finish each weekly Punch Card before it expires to collect UFC Coins and progression rewards."
+            },
+            {
+              "label": "5",
+              "detail": "Create a fighter, choose a weight class and fighter type, then improve stand-up and submission skills."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "EA SPORTS UFC 5 Fighter Tier List",
+          "description": "Rank playable fighters by overall rating, striking, grappling, speed, power, and competitive effectiveness across the full roster.",
+          "href": "/fighters/ea-sports-ufc-5-best-fighters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Khabib Nurmagomedov, Jon Jones, and Amanda Nunes headline the official 5-star tier."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Alexander Volkanovski, Israel Adesanya, and Islam Makhachev combine elite ratings with versatile move sets."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Valentina Shevchenko, Fedor Emelianenko, and Georges St-Pierre offer five-star quality in their core disciplines."
+            },
+            {
+              "label": "C",
+              "detail": "Anderson Silva and Joanna Jedrzejczyk Legacy versions provide strong five-star alternatives."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "EA SPORTS UFC 5 Career Mode Guide",
+          "description": "Create a fighter, choose a fighting style, raise attributes, and build a path from unknown amateur to UFC champion.",
+          "href": "/guide/ea-sports-ufc-5-career-mode-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Create a custom fighter and adjust appearance details such as hair, eye color, and tattoos."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Pick a weight class and one of five fighting styles: Kickboxer, Boxer, MMA, Wrestler, or Jiu-jitsu."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Enter Career Mode under Coach Davis and use the Training Manual plus Practice Mode to sharpen your inputs."
+            },
+            {
+              "label": "4",
+              "detail": "Earn Punch Card XP through online and offline matches and challenge-board objectives."
+            },
+            {
+              "label": "5",
+              "detail": "Spend UFC Coins on gear and customization, and use Evolution Points to raise stand-up and submission stats."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "EA SPORTS UFC 5 Online Ranked Guide",
+          "description": "Understand Online Career Mode, skill-based matchmaking, division progression, title chases, and Punch Card rewards.",
+          "href": "/modes/ea-sports-ufc-5-online-ranked",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Divisions",
+              "detail": "Online Career Mode features skill-based matchmaking and title chases across four divisions."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Ranked XP",
+              "detail": "Online and offline matches award different XP amounts toward the Punch Card."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Match",
+              "detail": "Ranked bouts commonly run about 10 to 20 minutes and often finish by TKO or submission."
+            },
+            {
+              "label": "Coins",
+              "detail": "Punch Card rewards and Fight Week contracts supply UFC Coins for Store purchases."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "EA SPORTS UFC 5 Fight Week Rewards",
+          "description": "Follow Fight Week challenges, contracts, Punch Card progression, UFC Coins, and rotating Alter Ego rewards.",
+          "href": "/modes/ea-sports-ufc-5-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fight Week",
+              "detail": "Challenges sync with real-world UFC Pay-Per-View events and refresh around the UFC schedule."
+            },
+            {
+              "label": "Contracts",
+              "detail": "Fight Week contracts award UFC Coins that can be spent in the Store."
+            },
+            {
+              "label": "Punch Card",
+              "detail": "Weekly progression unlocks rewards such as UFC Coins before the card expires."
+            },
+            {
+              "label": "Alter Ego",
+              "detail": "Select throwback fighter versions can be purchased with UFC Coins."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "EA SPORTS UFC 5 Updates & Patch Notes",
+          "description": "Track official UFC 5 patch notes, gameplay balance changes, roster additions, Alter Ego releases, and live content updates.",
+          "href": "/platforms/ea-sports-ufc-5-ps5-gameplay",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "1.27",
+              "detail": "Official patch notes for Patch 1.27 were published on September 24, 2025."
+            },
+            {
+              "label": "Jan 2026",
+              "detail": "EA announced an upcoming content update on January 22, 2026."
+            },
+            {
+              "label": "UFC Live",
+              "detail": "Live challenges follow the real-world UFC schedule with roster and Alter Ego drops."
+            },
+            {
+              "label": "Alter Ego",
+              "detail": "New batches, including January 20, 2026 releases, expand the playable roster."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "EA SPORTS UFC 5 FAQ",
+      "description": "Direct answers about EA SPORTS UFC 5 controls, progression, fighters, and online play.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is EA SPORTS UFC 5?",
+          "answer": "EA SPORTS UFC 5 is a mixed martial arts fighting game from EA Vancouver and Electronic Arts. It features real-time damage, seamless submissions, Career Mode, Online Career, Fight Week, and a roster spanning 11 weight divisions on PS5 and Xbox Series X|S."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do Punch Cards work in EA SPORTS UFC 5?",
+          "answer": "EA SPORTS UFC 5 awards XP for online and offline matches and challenge-board objectives. XP levels up the weekly Punch Card and unlocks rewards, but each card expires, so finish its levels before the card rotates out."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I earn UFC Coins in EA SPORTS UFC 5?",
+          "answer": "Earn UFC Coins in EA SPORTS UFC 5 through Punch Card rewards and Fight Week contracts. Spend them in the Store on gear, accessories, emotes, playercard customizations, and sometimes Alter Egos."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best way to start EA SPORTS UFC 5?",
+          "answer": "Begin EA SPORTS UFC 5 in the Learn tab, study the Training Manual, and practice essential inputs in Practice Mode. Then choose a fighter type, play both online and offline matches for Punch Card XP, and develop stand-up and submission skills in Career Mode."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does EA SPORTS UFC 5 have online ranked play?",
+          "answer": "EA SPORTS UFC 5 Online Career Mode uses skill-based matchmaking, division progression, and title chases across four divisions. Online matches also award XP toward the Punch Card, with different amounts from offline play."
         }
       ]
     },
