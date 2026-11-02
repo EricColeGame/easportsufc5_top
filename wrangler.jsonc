@@ -1,0 +1,14 @@
+{
+  "name": "easportsufc5-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "easportsufc5.top",
+      "custom_domain": true
+    }
+  ]
+}
