@@ -34,7 +34,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <Button asChild><Link href={localizeHref("/guide", locale)}>{home.hero.primaryCta}</Link></Button>
-          <Button asChild variant="outline"><Link href={localizeHref("/tier-list", locale)}>{home.hero.secondaryCta}</Link></Button>
+          <Button asChild variant="outline"><Link href={localizeHref("/fighters/ea-sports-ufc-5-best-fighters", locale)}>{home.hero.secondaryCta}</Link></Button>
           <Button asChild variant="outline"><Link href={siteConfig.gameUrl || "#"} target="_blank" rel="noopener noreferrer">{home.hero.tertiaryCta}</Link></Button>
         </div>
       </section>
@@ -69,7 +69,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
             ))}
           </div>
           <Button asChild className="mt-5 w-full" variant="outline">
-            <Link href={localizeHref("/codes", locale)}>{home.updates.browse}</Link>
+            <Link href={localizeHref("/guide", locale)}>{home.updates.browse}</Link>
           </Button>
         </Card>
 

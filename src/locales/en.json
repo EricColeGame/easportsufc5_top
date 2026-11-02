@@ -6,7 +6,16 @@
     "description": "Explore EA SPORTS UFC 5 fighter ratings, controls, combos, career mode tips, weight classes, and gameplay guides. Master striking, grappling, and submissions.",
     "legalNotice": "Independent, non-official fan wiki. EA SPORTS UFC 5 and related trademarks belong to their respective owners."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "fighters": "Fighters",
+    "controls": "Controls",
+    "modes": "Modes",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "EA SPORTS UFC 5 Wiki — Fighters, Controls & Guides",
@@ -391,13 +400,33 @@
       "secondary": "Play on PS5 & Xbox Series X|S"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "EA SPORTS UFC 5 Beginner Guides",
+    "overviewDescription": "Start with EA SPORTS UFC 5 beginner tips, career mode walkthroughs, striking improvement plans, Trophy guidance, and practical advice for climbing the ranks."
+  },
+  "fighters": {
+    "overviewTitle": "EA SPORTS UFC 5 Fighters & Roster",
+    "overviewDescription": "Browse EA SPORTS UFC 5 fighter ratings, the full roster, best fighter picks, Alter Egos, Bruce Lee, Mike Tyson, and the strongest choices for every style."
+  },
+  "controls": {
+    "overviewTitle": "EA SPORTS UFC 5 Controls & Combos",
+    "overviewDescription": "Learn EA SPORTS UFC 5 controls for PS5 and Xbox, basic striking combos, counter attacks, head movement, and the inputs behind effective offense and defense."
+  },
+  "modes": {
+    "overviewTitle": "EA SPORTS UFC 5 Game Modes",
+    "overviewDescription": "Explore EA SPORTS UFC 5 Career Mode, Online Career, ranked divisions, multiplayer, offline play, and tournament options with focused mode guides."
+  },
+  "mechanics": {
+    "overviewTitle": "EA SPORTS UFC 5 Combat Mechanics",
+    "overviewDescription": "Understand EA SPORTS UFC 5 striking defense, stamina management, the health system, doctor stoppages, knockout methods, and the submission system."
+  },
+  "platforms": {
+    "overviewTitle": "EA SPORTS UFC 5 Platforms & Crossplay",
+    "overviewDescription": "Check EA SPORTS UFC 5 platform details for PS5 and Xbox Series X|S, PC availability, crossplay support, gameplay differences, and system requirements."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -421,10 +450,10 @@
     "officialDiscord": "UFC Community on Reddit",
     "officialYoutube": "EA SPORTS UFC on YouTube",
     "vvBuilder": "EA Forums",
-    "beginnerGuide": "Fighter Guides",
-    "raceGuides": "Fighter Ratings",
-    "bossGuides": "Combo Guides",
-    "buildGuide": "Fighter Tier List",
+    "beginnerGuide": "Beginner Guides",
+    "raceGuides": "Fighter Guides",
+    "bossGuides": "Controls & Combos",
+    "buildGuide": "Combat Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
