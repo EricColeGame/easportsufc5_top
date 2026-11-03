@@ -13,13 +13,15 @@ type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const title = `${siteConfig.name} - Fighters, Combos & Guides`;
+  const messages = (await getMessages({ locale })) as Messages;
+  const title = messages.home.meta.title || `${siteConfig.name} - Fighters, Combos & Guides`;
+  const description = messages.home.meta.description || siteConfig.description;
   return {
     title,
-    description: siteConfig.description,
+    description,
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title, description: siteConfig.description, url: `${siteUrl}/${locale}`, images: [{ url: `${siteUrl}/images/hero.webp`, width: 2560, height: 1440, alt: "EA SPORTS UFC 5 key art" }] },
-    twitter: { card: "summary_large_image", title, description: siteConfig.description, images: [{ url: `${siteUrl}/images/hero.webp`, alt: "EA SPORTS UFC 5 key art" }] },
+    openGraph: { title, description, url: `${siteUrl}/${locale}`, images: [{ url: `${siteUrl}/images/hero.webp`, width: 2560, height: 1440, alt: "EA SPORTS UFC 5 key art" }] },
+    twitter: { card: "summary_large_image", title, description, images: [{ url: `${siteUrl}/images/hero.webp`, alt: "EA SPORTS UFC 5 key art" }] },
   };
 }
 
