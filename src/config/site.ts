@@ -35,6 +35,6 @@ export const siteConfig: SiteConfig = {
     forums: "https://forums.ea.com/",
     youtube: "https://www.youtube.com/@EASPORTSUFC",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-BR", "de"],
   defaultLocale: "en",
 };

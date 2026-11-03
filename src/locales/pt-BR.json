@@ -1,1 +1,460 @@
-{}
+{
+  "site": {
+    "name": "Wiki do EA SPORTS UFC 5",
+    "shortName": "EA SPORTS UFC 5",
+    "tagline": "Guias de Lutadores, Combos e Modo Carreira",
+    "description": "Explore avaliações de lutadores, controles, combos, dicas do modo carreira, categorias de peso e guias de jogabilidade do EA SPORTS UFC 5. Domine a trocação, a luta agarrada e as finalizações.",
+    "legalNotice": "Wiki de fãs independente e não oficial. EA SPORTS UFC 5 e marcas registradas relacionadas pertencem aos respectivos proprietários."
+  },
+  "nav": {
+    "guide": "Guia",
+    "fighters": "Lutadores",
+    "controls": "Controles",
+    "modes": "Modos",
+    "mechanics": "Mecânicas",
+    "platforms": "Plataformas",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki do EA SPORTS UFC 5 — Lutadores, Controles e Guias",
+      "description": "Domine o EA SPORTS UFC 5 com avaliações de lutadores, controles de PS5 e Xbox, guias de trocação e luta agarrada, dicas para o modo carreira e estratégias ranqueadas online."
+    },
+    "hero": {
+      "eyebrow": "Simulação Realista de Luta de MMA",
+      "title": "Wiki do EA SPORTS UFC 5",
+      "description": "Explore o EA SPORTS UFC 5, o jogo de luta de MMA da nova geração com tecnologia Frostbite. Descubra avaliações de lutadores, combos de trocação, técnicas de luta agarrada, finalizações, estratégias para o modo carreira, controles e guias de jogabilidade para dominar o Octógono.",
+      "stats": [
+        "64,000+ combinações de dano facial",
+        "14 tipos de lutador criado",
+        "4 divisões do Modo Carreira Online",
+        "Lançado em 27 de outubro de 2023"
+      ],
+      "primaryCta": "Guias de Lutadores",
+      "secondaryCta": "Lista de Tiers de Lutadores",
+      "tertiaryCta": "Jogue no PS5 e Xbox Series X|S",
+      "videoLabel": "Mídia oficial"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada no EA SPORTS UFC 5",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda os controles básicos, a progressão do Punch Card e as etapas de criação de lutador que deixam suas primeiras partidas sob controle."
+        },
+        {
+          "number": "2",
+          "title": "Controles Essenciais",
+          "description": "Domine trocação, bloqueio, quedas, transições de clinch e controles de solo no PS5 e Xbox Series X|S."
+        },
+        {
+          "number": "3",
+          "title": "Melhores Lutadores",
+          "description": "Compare o plantel oficial de 5 estrelas e escolha lutadores que se encaixem no seu estilo preferido de trocação ou luta agarrada."
+        },
+        {
+          "number": "4",
+          "title": "Modo Carreira",
+          "description": "Crie um lutador, selecione um estilo de luta, ganhe Pontos de Evolução e construa um caminho até o título do UFC."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta",
+      "quickLinks": [
+        "Melhores Lutadores",
+        "Guia de Controles",
+        "Guia para Iniciantes",
+        "Sistema de Finalizações"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda a progressão do Punch Card, as UFC Coins e a criação de lutador antes das suas primeiras partidas.",
+          "href": "/guide/ea-sports-ufc-5-beginner-guide"
+        },
+        {
+          "badge": "Essencial",
+          "title": "Guia de Controles",
+          "description": "Comandos completos de PS5 e Xbox para trocação, luta agarrada no clinch, finalizações e defesa no solo.",
+          "href": "/controls/ea-sports-ufc-5-controls"
+        },
+        {
+          "badge": "Lista de Tiers",
+          "title": "Melhores Lutadores",
+          "description": "Compare o plantel oficial de 5 estrelas e as escolhas mais fortes para cada estilo de luta.",
+          "href": "/fighters/ea-sports-ufc-5-best-fighters"
+        },
+        {
+          "badge": "Progressão",
+          "title": "Guia do Modo Carreira",
+          "description": "Crie um lutador, escolha um estilo, ganhe Pontos de Evolução e busque o título do UFC.",
+          "href": "/guide/ea-sports-ufc-5-career-mode-guide"
+        },
+        {
+          "badge": "Mecânicas",
+          "title": "Sistema de Finalizações",
+          "description": "Domine Finalizações por Submissão, disputas de resistência, fintas e negações defensivas.",
+          "href": "/mechanics/ea-sports-ufc-5-submission-system"
+        },
+        {
+          "badge": "Plantel",
+          "title": "Alter Egos",
+          "description": "Explore séries retrô de lutadores, novos lançamentos e disponibilidade na Loja.",
+          "href": "/fighters/ea-sports-ufc-5-alter-egos"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é EA SPORTS UFC 5?",
+      "paragraphs": [
+        "EA SPORTS UFC 5 é um jogo de luta de artes marciais mistas desenvolvido pela EA Vancouver e publicado pela Electronic Arts. Criado com o motor Frostbite, ele traz dano em tempo real, finalizações fluidas e trocação ampliada para PlayStation 5 e Xbox Series X|S.",
+        "O jogo abrange Modo Carreira, Carreira Online, Fight Week e competição ranqueada, com um plantel de lutadores do UFC do passado e do presente em 11 categorias de peso. Crie um lutador, escolha entre cinco estilos de luta, desenvolva habilidades de luta em pé e de finalização e busque a glória do campeonato no Octógono."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "EA Vancouver"
+        },
+        {
+          "label": "Publicadora",
+          "value": "Electronic Arts"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PS5 e Xbox Series X|S"
+        },
+        {
+          "label": "Gênero",
+          "value": "Luta de MMA"
+        },
+        {
+          "label": "Motor",
+          "value": "Frostbite"
+        },
+        {
+          "label": "Lançamento",
+          "value": "27 de outubro de 2023"
+        },
+        {
+          "label": "Estilos de Luta",
+          "value": "5"
+        },
+        {
+          "label": "Combos de Dano",
+          "value": "64,000+"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore a Wiki do EA SPORTS UFC 5",
+      "description": "Estude cada sistema central do EA SPORTS UFC 5, do plantel completo de lutadores e mapas de controle à progressão na carreira, partidas ranqueadas, recompensas do Fight Week e atualizações de patch.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Plantel de Lutadores do EA SPORTS UFC 5",
+          "description": "Navegue por todos os lutadores do UFC 5 por categoria de peso, com avaliações, atributos, estilos de luta, atletas lendários e versões Alter Ego.",
+          "href": "/fighters/ea-sports-ufc-5-full-roster",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Plantel",
+              "detail": "Todas as 11 categorias de peso masculinas e femininas em um plantel completo."
+            },
+            {
+              "label": "5 estrelas",
+              "detail": "Khabib Nurmagomedov, Jon Jones, Amanda Nunes e outros lutadores mais bem avaliados."
+            },
+            {
+              "label": "Alter Ego",
+              "detail": "Versões retrô da Prime Series, Champions Series, Pride Series e outras."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia de Controles do EA SPORTS UFC 5",
+          "description": "Domine os comandos de PlayStation e Xbox para trocação, bloqueio, movimento, quedas, luta agarrada no clinch, finalizações e defesa no solo.",
+          "href": "/controls/ea-sports-ufc-5-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Golpe",
+              "detail": "Xbox X/Y ou PS5 Quadrado/Triângulo desferem socos de esquerda e direita."
+            },
+            {
+              "label": "Bloqueio",
+              "detail": "Segure RT/R2 para bloqueio alto; adicione LT/L2 para bloqueio baixo e captura de perna cronometrada."
+            },
+            {
+              "label": "Queda",
+              "detail": "Toque em LT + X + A no Xbox ou L2 + Quadrado + X no PS5 para uma queda de perna simples."
+            },
+            {
+              "label": "Finalizar",
+              "detail": "No clinch, use LT + RB + X/Y no Xbox ou L2 + R1 + Quadrado/Triângulo no PS5."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia para Iniciantes do EA SPORTS UFC 5",
+          "description": "Aprenda os fundamentos de trocação, luta agarrada, gerenciamento de resistência, defesa e combinações eficazes antes das suas primeiras lutas.",
+          "href": "/guide/ea-sports-ufc-5-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Comece na aba Aprender e use o Manual de Treinamento para revisar comandos essenciais de movimento e ataque."
+            },
+            {
+              "label": "2",
+              "detail": "Pratique golpes básicos e combinações no Modo Treino antes de entrar no Modo Carreira."
+            },
+            {
+              "label": "3",
+              "detail": "Ganhe XP em partidas online e offline, depois complete objetivos do quadro de desafios para ganhos maiores."
+            },
+            {
+              "label": "4",
+              "detail": "Conclua cada Punch Card semanal antes que ele expire para coletar UFC Coins e recompensas de progressão."
+            },
+            {
+              "label": "5",
+              "detail": "Crie um lutador, escolha uma categoria de peso e um tipo de lutador, depois melhore habilidades de luta em pé e de finalização."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lista de Tiers de Lutadores do EA SPORTS UFC 5",
+          "description": "Classifique lutadores jogáveis por avaliação geral, trocação, luta agarrada, velocidade, força e eficácia competitiva em todo o plantel.",
+          "href": "/fighters/ea-sports-ufc-5-best-fighters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Khabib Nurmagomedov, Jon Jones e Amanda Nunes lideram o tier oficial de 5 estrelas."
+            },
+            {
+              "label": "A",
+              "detail": "Alexander Volkanovski, Israel Adesanya e Islam Makhachev combinam avaliações de elite com conjuntos de movimentos versáteis."
+            },
+            {
+              "label": "B",
+              "detail": "Valentina Shevchenko, Fedor Emelianenko e Georges St-Pierre oferecem qualidade de cinco estrelas em suas disciplinas principais."
+            },
+            {
+              "label": "C",
+              "detail": "As versões Legacy de Anderson Silva e Joanna Jedrzejczyk oferecem alternativas fortes de cinco estrelas."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia do Modo Carreira do EA SPORTS UFC 5",
+          "description": "Crie um lutador, escolha um estilo de luta, aumente atributos e construa um caminho de amador desconhecido a campeão do UFC.",
+          "href": "/guide/ea-sports-ufc-5-career-mode-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Crie um lutador personalizado e ajuste detalhes de aparência, como cabelo, cor dos olhos e tatuagens."
+            },
+            {
+              "label": "2",
+              "detail": "Escolha uma categoria de peso e um entre cinco estilos de luta: Kickboxer, Boxer, MMA, Wrestler ou Jiu-jitsu."
+            },
+            {
+              "label": "3",
+              "detail": "Entre no Modo Carreira sob o comando do Coach Davis e use o Manual de Treinamento mais o Modo Treino para aperfeiçoar seus comandos."
+            },
+            {
+              "label": "4",
+              "detail": "Ganhe XP do Punch Card por meio de partidas online e offline e objetivos do quadro de desafios."
+            },
+            {
+              "label": "5",
+              "detail": "Gaste UFC Coins em equipamentos e personalização, e use Pontos de Evolução para aumentar atributos de luta em pé e de finalização."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia Ranqueado Online do EA SPORTS UFC 5",
+          "description": "Entenda o Modo Carreira Online, o pareamento baseado em habilidade, a progressão de divisões, as disputas pelo título e as recompensas do Punch Card.",
+          "href": "/modes/ea-sports-ufc-5-online-ranked",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Divisões",
+              "detail": "O Modo Carreira Online apresenta pareamento baseado em habilidade e disputas pelo título em quatro divisões."
+            },
+            {
+              "label": "XP Ranqueado",
+              "detail": "Partidas online e offline concedem quantidades diferentes de XP para o Punch Card."
+            },
+            {
+              "label": "Partida",
+              "detail": "Lutas ranqueadas geralmente duram cerca de 10 a 20 minutos e muitas vezes terminam por TKO ou finalização."
+            },
+            {
+              "label": "Moedas",
+              "detail": "Recompensas do Punch Card e contratos do Fight Week fornecem UFC Coins para compras na Loja."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Recompensas do Fight Week do EA SPORTS UFC 5",
+          "description": "Acompanhe desafios do Fight Week, contratos, progressão do Punch Card, UFC Coins e recompensas rotativas de Alter Ego.",
+          "href": "/modes/ea-sports-ufc-5-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fight Week",
+              "detail": "Os desafios sincronizam com eventos reais de Pay-Per-View do UFC e são atualizados conforme o calendário do UFC."
+            },
+            {
+              "label": "Contratos",
+              "detail": "Contratos do Fight Week concedem UFC Coins que podem ser gastos na Loja."
+            },
+            {
+              "label": "Punch Card",
+              "detail": "A progressão semanal desbloqueia recompensas como UFC Coins antes que o Punch Card expire."
+            },
+            {
+              "label": "Alter Ego",
+              "detail": "Versões retrô selecionadas de lutadores podem ser compradas com UFC Coins."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações e Notas de Patch do EA SPORTS UFC 5",
+          "description": "Acompanhe notas de patch oficiais do UFC 5, mudanças de balanceamento da jogabilidade, adições ao plantel, lançamentos de Alter Ego e atualizações de conteúdo ao vivo.",
+          "href": "/platforms/ea-sports-ufc-5-ps5-gameplay",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "1.27",
+              "detail": "As notas de patch oficiais do Patch 1.27 foram publicadas em 24 de setembro de 2025."
+            },
+            {
+              "label": "Jan 2026",
+              "detail": "A EA anunciou uma próxima atualização de conteúdo em 22 de janeiro de 2026."
+            },
+            {
+              "label": "UFC Live",
+              "detail": "Desafios ao vivo acompanham o calendário real do UFC com adições ao plantel e lançamentos de Alter Ego."
+            },
+            {
+              "label": "Alter Ego",
+              "detail": "Novos lotes, incluindo lançamentos de 20 de janeiro de 2026, ampliam o plantel jogável."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ do EA SPORTS UFC 5",
+      "description": "Respostas diretas sobre controles, progressão, lutadores e jogo online do EA SPORTS UFC 5.",
+      "items": [
+        {
+          "question": "O que é EA SPORTS UFC 5?",
+          "answer": "EA SPORTS UFC 5 é um jogo de luta de artes marciais mistas da EA Vancouver e da Electronic Arts. Ele apresenta dano em tempo real, finalizações fluidas, Modo Carreira, Carreira Online, Fight Week e um plantel que abrange 11 categorias de peso no PS5 e Xbox Series X|S."
+        },
+        {
+          "question": "Como funcionam os Punch Cards no EA SPORTS UFC 5?",
+          "answer": "EA SPORTS UFC 5 concede XP por partidas online e offline e objetivos do quadro de desafios. O XP aumenta o nível do Punch Card semanal e desbloqueia recompensas, mas cada cartão expira, então conclua seus níveis antes que o cartão seja trocado."
+        },
+        {
+          "question": "Como ganho UFC Coins no EA SPORTS UFC 5?",
+          "answer": "Ganhe UFC Coins no EA SPORTS UFC 5 por meio de recompensas do Punch Card e contratos do Fight Week. Gaste-as na Loja em equipamentos, acessórios, emotes, personalizações de playercard e, às vezes, Alter Egos."
+        },
+        {
+          "question": "Qual é a melhor forma de começar no EA SPORTS UFC 5?",
+          "answer": "Comece no EA SPORTS UFC 5 pela aba Aprender, estude o Manual de Treinamento e pratique comandos essenciais no Modo Treino. Depois escolha um tipo de lutador, jogue partidas online e offline para ganhar XP do Punch Card e desenvolva habilidades de luta em pé e de finalização no Modo Carreira."
+        },
+        {
+          "question": "EA SPORTS UFC 5 tem partidas ranqueadas online?",
+          "answer": "O Modo Carreira Online do EA SPORTS UFC 5 usa pareamento baseado em habilidade, progressão de divisões e disputas pelo título em quatro divisões. Partidas online também concedem XP para o Punch Card, com quantidades diferentes das do jogo offline."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar o Octógono?",
+      "description": "Estude avaliações de lutadores, combinações de trocação, transições de luta agarrada, finalizações e estratégias de carreira com nossos guias de fãs independentes e atualizados regularmente.",
+      "primary": "Comece o Guia para Iniciantes",
+      "secondary": "Jogue no PS5 e Xbox Series X|S"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias para Iniciantes do EA SPORTS UFC 5",
+    "overviewDescription": "Comece com dicas para iniciantes no EA SPORTS UFC 5, guias passo a passo do modo carreira, planos para melhorar a trocação, orientações sobre Troféus e conselhos práticos para subir nas classificações."
+  },
+  "fighters": {
+    "overviewTitle": "Lutadores e Plantel do EA SPORTS UFC 5",
+    "overviewDescription": "Navegue pelas avaliações de lutadores do EA SPORTS UFC 5, pelo plantel completo, pelas melhores escolhas de lutadores, pelos Alter Egos, por Bruce Lee, Mike Tyson e pelas opções mais fortes para cada estilo."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Combos do EA SPORTS UFC 5",
+    "overviewDescription": "Aprenda os controles do EA SPORTS UFC 5 para PS5 e Xbox, combos básicos de trocação, contra-ataques, movimento de cabeça e os comandos por trás de um ataque e defesa eficazes."
+  },
+  "modes": {
+    "overviewTitle": "Modos de Jogo do EA SPORTS UFC 5",
+    "overviewDescription": "Explore o Modo Carreira, a Carreira Online, as divisões ranqueadas, o multijogador, o jogo offline e as opções de torneio do EA SPORTS UFC 5 com guias focados em cada modo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Combate do EA SPORTS UFC 5",
+    "overviewDescription": "Entenda a defesa na trocação, o gerenciamento de resistência, o sistema de saúde, as paralisações médicas, os métodos de nocaute e o sistema de finalizações do EA SPORTS UFC 5."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas e Crossplay do EA SPORTS UFC 5",
+    "overviewDescription": "Confira detalhes de plataforma do EA SPORTS UFC 5 para PS5 e Xbox Series X|S, disponibilidade para PC, suporte a crossplay, diferenças de jogabilidade e requisitos de sistema."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "updated": "Atualizado",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Leia mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki do EA SPORTS UFC 5",
+    "about": "A Wiki do EA SPORTS UFC 5 é um hub de guias independente feito por fãs que cobre avaliações de lutadores, sistemas de trocação e luta agarrada, modo carreira, controles e conhecimentos essenciais de jogabilidade de MMA.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki do EA SPORTS UFC 5. Site de fãs independente; sem afiliação com a EA ou o UFC.",
+    "description": "Luta de MMA da nova geração com tecnologia Frostbite, com dano realista, modo carreira e competição online.",
+    "playGame": "Jogue EA SPORTS UFC 5",
+    "officialDiscord": "Comunidade do UFC no Reddit",
+    "officialYoutube": "EA SPORTS UFC no YouTube",
+    "vvBuilder": "Fóruns da EA",
+    "beginnerGuide": "Guias para Iniciantes",
+    "raceGuides": "Guias de Lutadores",
+    "bossGuides": "Controles e Combos",
+    "buildGuide": "Mecânicas de Combate",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}
